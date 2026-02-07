@@ -67,13 +67,13 @@ This project provides an in-depth analysis of Adidas sales data, focusing on:
 ```
 adidas-sales-analysis/
 │
-├── analysis.html                # Main analysis notebook (HTML export)
+├── analysis.ipynb               # Main analysis notebook (HTML export)
 ├── README.md                    # Project documentation
-├── QUICK_START.md              # Quick start guide
-├── CONTRIBUTING.md             # Contribution guidelines
-├── LICENSE                     # MIT License
-├── requirements.txt            # Python dependencies
-└── .gitignore                 # Git ignore file
+├── QUICK_START.md               # Quick start guide
+├── CONTRIBUTING.md              # Contribution guidelines
+├── LICENSE                      # MIT License
+├── requirements.txt             # Python dependencies
+└── .gitignore                   # Git ignore file
 ```
 
 ## 🚀 Getting Started
