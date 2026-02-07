@@ -68,6 +68,7 @@ This project provides an in-depth analysis of Adidas sales data, focusing on:
 adidas-sales-analysis/
 │
 ├── analysis.ipynb               # Main analysis notebook (HTML export)
+├── analysis.html                # Analysis notebook (HTML export)
 ├── README.md                    # Project documentation
 ├── QUICK_START.md               # Quick start guide
 ├── CONTRIBUTING.md              # Contribution guidelines
