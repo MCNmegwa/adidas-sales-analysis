@@ -161,7 +161,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👤 Author
 
-[Your Name]
+Miracle Nmegwa
 - GitHub: [@MCNmegwa](https://github.com/MCNmegwa)
 - LinkedIn: [Miracle Nmegwa](https://linkedin.com/in/miracle-nmegwa)
 
