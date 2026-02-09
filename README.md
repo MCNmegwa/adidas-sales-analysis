@@ -163,7 +163,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👤 Author
 
 Miracle Nmegwa
-- GitHub: [@MCNmegwa](https://github.com/MCNmegwa)
+- GitHub: [@miracle-nmegwa](https://github.com/miracle-nmegwa)
 - LinkedIn: [Miracle Nmegwa](https://linkedin.com/in/miracle-nmegwa)
 
 ## 🙏 Acknowledgments
